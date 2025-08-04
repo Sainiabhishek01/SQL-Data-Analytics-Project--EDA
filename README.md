@@ -4,14 +4,31 @@ In this project, I conducted a comprehensive Exploratory Data Analysis (EDA) wor
 
 Key Highlights:-
 ===============
-•	Cleaned and prepared the data for analysis.
+•	Database Exploration: Understanding schema structure, table relationships, and data types
 
-•	Explored individual columns and compared different features.
+•	Dimension Exploration: Analysis by categories such as customer, product, and region
 
-•	Created charts and graphs to understand patterns and trends.
+•	Date Exploration: Identifying trends, seasonality, and patterns over time
 
-•	Found unusual values and performance issues in the data.
+•	Measure Exploration: Investigating key metrics like revenue, sales, and quantity
 
-•	Discovered useful insights to help with decision-making.
+•	Magnitude Analysis: Highlighting high vs. low-performing segments
+
+•	Ranking Analysis: Using window functions for Top-N and comparative analysis
+
+•	Change Over Time: Analyzing growth trends, month-over-month and year-over-year changes
+
+•	Cumulative Analysis: Running totals and progression tracking
+
+•	Performance Analysis: Comparing actual results against targets or benchmarks
+
+•	Part-to-Whole Analysis: Assessing contribution of segments to the overall total
+
+•	Data Segmentation: Creating customer or product segments based on behavior or performance
+
+•	Reporting Preparation: Structuring data for use in dashboards and reports
 
 
+Tools and Technologies:
+=================
+SQL (SQL Server) 
