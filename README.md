@@ -3,9 +3,13 @@ In this project, I conducted a comprehensive Exploratory Data Analysis (EDA) wor
 
 
 Key Highlights:-
-Cleaned and prepared the data for analysis
-Explored individual columns and compared different features
-Created charts and graphs to understand patterns and trends
-Found unusual values and performance issues in the data
-Discovered useful insights to help with decision-making
+Cleaned and prepared the data for analysis.
+
+Explored individual columns and compared different features.
+
+Created charts and graphs to understand patterns and trends.
+
+Found unusual values and performance issues in the data.
+
+Discovered useful insights to help with decision-making.
 
